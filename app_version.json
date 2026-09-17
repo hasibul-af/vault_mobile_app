@@ -2,6 +2,6 @@
   "version_code": 200,
   "version_name": "2.5.5",
   "apk_url": "https://raw.githubusercontent.com/hasibul-af/vault_mobile_app/main/VAULT_Mobile_Tools_v2.5.apk",
-  "changelog": "• ⚡ Reordered Tools Suite: FB Reset -> Meta AI -> Confirm Tools\n• 📋 1-Click Clipboard Instant Replace Paste Button\n• 📁 Auto Save Output to 'Vault Tools' Folder in File Manager\n• 🛡️ Built-in SSL & Cloudflare TLS Handshake Bypass\n• 🚀 Auto In-App OTA Update System via GitHub",
+  "changelog": "• ⚡ Reordered Tools Suite: FB Reset -> Meta AI -> Confirm Tools\n• 📋 1-Click Clipboard Instant Replace Paste Button",
   "force_update": false
 }
