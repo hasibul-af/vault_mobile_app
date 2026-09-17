@@ -1,7 +1,3 @@
-{
-  "version_code": 200,
-  "version_name": "2.5.0",
-  "apk_url": "https://raw.githubusercontent.com/hasibul-af/vault_mobile_app/main/VAULT_Mobile_Tools_v2.5.apk",
-  "changelog": "• ⚡ Reordered Tools Suite: FB Reset -> Meta AI -> Confirm Tools\n• 📋 1-Click Clipboard Instant Replace Paste Button",
-  "force_update": false
-}
+"version_code": 201,
+"version_name": "2.1.0",
+"changelog": "• App has Been Updated"
